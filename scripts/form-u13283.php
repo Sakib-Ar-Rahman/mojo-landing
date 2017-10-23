@@ -31,7 +31,7 @@ $form = array(
 		'to' => 'sakib_ar_rahman@ymail.com'
 	),
 	'fields' => array(
-		'custom_U6820' => array(
+		'custom_U13286' => array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Name',
