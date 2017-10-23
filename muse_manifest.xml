@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mojoeats.me" resolutions="1x" timestamp="1508734127417">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mojoeats.me" resolutions="1x" timestamp="1508801720262">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="21324438" ref="index"/>
-    <file name="nomq_index.css" crc="3792877301" ref="index"/>
+    <file name="index.css" crc="338971772" ref="index"/>
+    <file name="nomq_index.css" crc="352200053" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -27,8 +27,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="mojotext.png" crc="4272643910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -45,8 +49,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="download_on_the_app_store_badge_us-uk_135x40.svg" crc="205710994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -64,23 +72,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="map_poster_.png" crc="58208348" ref="index"/>
     <file name="phone.png" crc="102788913" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="arrow.svg" crc="4163426680" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="arrow_poster_.png" crc="174404065" ref="index"/>
     <file name="phone204x400.png" crc="3787393602" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -94,48 +94,41 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="phone_step1_bg197x184.jpg" crc="4013764602" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="restaurant_step2.jpg" crc="33521057" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="restaurant_step2.jpg" crc="4152109211" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="runner_step3.jpg" crc="13969179" seo="true" ref="index">
+    <file name="runner_step3.jpg" crc="67659353" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="phone_step1_bg.jpg" crc="518061037" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="phone_step1_bg147x138.jpg" crc="3936073106" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="phone_step1_bg125x117.jpg" crc="3909577228" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="phone_step1_bg106x99.jpg" crc="219262176" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="phone_step1_bg115x107.jpg" crc="4036801787" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="phone132x259.png" crc="4241070036" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="phone_step1_bg101x95.jpg" crc="464883218" seo="true" ref="index">
+    <file name="how_it_works.jpg" crc="3807870281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how_it_works713x229.jpg" crc="418187115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone221x434.png" crc="506577905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how_it_works658x211.jpg" crc="29021385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how_it_works584x187.jpg" crc="447321042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone_step1_bg.png" crc="482031232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3760327730" seo="true" mt="1508734062471" redirect="true"/>
+  <file name="index.html" crc="3882660883" seo="true" mt="1508801391174" redirect="true"/>
 </manifest>
