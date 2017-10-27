@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mojoeats.me" resolutions="1x" timestamp="1509081101447">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mojoeats.me" resolutions="1x" timestamp="1509081633881">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="79077234" ref="index"/>
+    <file name="index.css" crc="3771489948" ref="index"/>
     <file name="nomq_index.css" crc="4123675629" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -130,5 +130,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="491234629" seo="true" mt="1509081035780" redirect="true"/>
+  <file name="index.html" crc="4262890469" seo="true" mt="1509081606687" redirect="true"/>
 </manifest>
