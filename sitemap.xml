@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mojoeats.me/index.html</loc>
-    <lastmod>2017-10-23</lastmod>
+    <lastmod>2017-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -61,6 +61,27 @@
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone_step1_bg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/graph_wait_time.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/graph_wait_time445x332.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/graph_wait_time410x307.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/graph_wait_time308x230.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/graph_wait_time205x154.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/graph_wait_time183x137.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/graph_wait_time137x103.png</image:loc>
     </image:image>
   </url>
 </urlset>
