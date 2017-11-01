@@ -45,7 +45,7 @@
       <image:loc>http://mojoeats.me/images/unnamed168x168.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/how_it_works714x229.jpg</image:loc>
+      <image:loc>http://mojoeats.me/images/how_it_works696x223.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone156x307.png</image:loc>
@@ -72,7 +72,7 @@
       <image:loc>http://mojoeats.me/images/unnamed157x157.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/how_it_works612x196.jpg</image:loc>
+      <image:loc>http://mojoeats.me/images/how_it_works605x194.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone175x344.png</image:loc>
@@ -90,10 +90,10 @@
       <image:loc>http://mojoeats.me/images/runner_step3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/phone128x251.png</image:loc>
+      <image:loc>http://mojoeats.me/images/phone125x245.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/unnamed105x105.png</image:loc>
+      <image:loc>http://mojoeats.me/images/unnamed103x103.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone103x203.png</image:loc>
@@ -102,10 +102,10 @@
       <image:loc>http://mojoeats.me/images/unnamed75x75.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/phone99x194.png</image:loc>
+      <image:loc>http://mojoeats.me/images/phone82x160.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/unnamed75x76.png</image:loc>
+      <image:loc>http://mojoeats.me/images/unnamed77x78.png</image:loc>
     </image:image>
   </url>
 </urlset>
