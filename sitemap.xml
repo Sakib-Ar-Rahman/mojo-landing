@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mojoeats.me/index.html</loc>
-    <lastmod>2017-10-23</lastmod>
+    <lastmod>2017-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -15,34 +15,13 @@
       <image:loc>http://mojoeats.me/images/google-play-badge.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/download_on_the_app_store_badge_us-uk_135x40.svg</image:loc>
+      <image:loc>http://mojoeats.me/images/download_on_the_app_store_badge_us-uk_135x40_poster_.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/map.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/phone204x400.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/phone153x300.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/phone148x291.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/phone99x194.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/restaurant_step2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/runner_step3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/phone132x259.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/how_it_works.jpg</image:loc>
@@ -54,13 +33,34 @@
       <image:loc>http://mojoeats.me/images/phone221x434.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://mojoeats.me/images/phone204x400.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://mojoeats.me/images/how_it_works658x211.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/phone153x300.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/how_it_works584x187.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone_step1_bg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/restaurant_step2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/runner_step3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/phone148x291.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/phone132x259.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/phone99x194.png</image:loc>
     </image:image>
   </url>
 </urlset>
