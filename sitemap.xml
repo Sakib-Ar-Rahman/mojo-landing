@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://mojoeats.me/index.html</loc>
-    <lastmod>2017-10-31</lastmod>
+    <lastmod>2017-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -48,13 +48,22 @@
       <image:loc>http://mojoeats.me/images/how_it_works714x229.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/phone155x305.png</image:loc>
+      <image:loc>http://mojoeats.me/images/phone156x307.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/unnamed160x160.png</image:loc>
+      <image:loc>http://mojoeats.me/images/unnamed161x161.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/how_it_works681x218.jpg</image:loc>
+      <image:loc>http://mojoeats.me/images/how_it_works684x220.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/phone173x340.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/unnamed164x164.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/how_it_works637x205.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone166x326.png</image:loc>
@@ -87,16 +96,16 @@
       <image:loc>http://mojoeats.me/images/unnamed105x105.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/phone111x217.png</image:loc>
+      <image:loc>http://mojoeats.me/images/phone103x203.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/unnamed70x70.png</image:loc>
+      <image:loc>http://mojoeats.me/images/unnamed75x75.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone99x194.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/unnamed85x85.png</image:loc>
+      <image:loc>http://mojoeats.me/images/unnamed75x76.png</image:loc>
     </image:image>
   </url>
 </urlset>

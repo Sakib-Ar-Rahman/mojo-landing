@@ -1,0 +1,173 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mojoeats.me" resolutions="1x" timestamp="1509513987609">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="217872143" ref="index"/>
+    <file name="nomq_index.css" crc="4154370700" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u13283.php" crc="4274891076" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="mojomonkey.png" crc="61541181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mojotext.png" crc="4272643910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone.png" crc="102788913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed.png" crc="4132016418" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how_it_works.jpg" crc="3807870281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 210x253.jpg" crc="4177438609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone223x437.png" crc="463911724" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how_it_works719x231.jpg" crc="162137824" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone217x427.png" crc="4217994464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone168x331.png" crc="52744624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how_it_works543x175.jpg" crc="4124303434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone163x320.png" crc="3782915974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed168x168.png" crc="29035291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how_it_works714x229.jpg" crc="4291872922" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone156x307.png" crc="3879278914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed161x161.png" crc="3934037729" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how_it_works684x220.jpg" crc="4056552618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone173x340.png" crc="29922407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed164x164.png" crc="3986456613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how_it_works637x205.jpg" crc="160241185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone166x326.png" crc="366375954" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed157x157.png" crc="4182123392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="how_it_works612x196.jpg" crc="53612595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone175x344.png" crc="289789211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed151x151.png" crc="56815297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone_step1_bg.png" crc="482031232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="restaurant_step2.jpg" crc="4152109211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="runner_step3.jpg" crc="67659353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone128x251.png" crc="476544026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed105x105.png" crc="430652449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone103x203.png" crc="3826712919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed75x75.png" crc="20237445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone99x194.png" crc="3887467305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed75x76.png" crc="4276223495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="68608689" seo="true" mt="1509513945046" redirect="true"/>
+</manifest>
