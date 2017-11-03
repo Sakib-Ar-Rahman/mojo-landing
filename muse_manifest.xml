@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mojoeats.me" resolutions="1x" timestamp="1509598575357">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mojoeats.me" resolutions="1x" timestamp="1509670032531">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="112516293" ref="index"/>
-    <file name="nomq_index.css" crc="177351951" ref="index"/>
+    <file name="index.css" crc="3761803591" ref="index"/>
+    <file name="nomq_index.css" crc="3865181490" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -60,18 +60,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 210x253.jpg" crc="4177438609" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="screen shot 2017-11-02 at 23027 pm186x162.jpg" crc="335345661" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="phone223x437.png" crc="463911724" seo="true" ref="index">
@@ -80,7 +69,14 @@
     <file name="how_it_works719x231.jpg" crc="162137824" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="screen shot 2017-11-02 at 23027 pm.jpg" crc="153677959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="phone217x427.png" crc="4217994464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-02 at 23027 pm157x137.jpg" crc="442012026" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="phone168x331.png" crc="52744624" seo="true" ref="index">
@@ -92,28 +88,37 @@
     <file name="phone163x320.png" crc="3782915974" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="unnamed168x168.png" crc="29035291" seo="true" ref="index">
+    <file name="unnamed182x183.png" crc="3860156310" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="how_it_works696x223.jpg" crc="3818110559" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="screen shot 2017-11-02 at 23027 pm183x160.jpg" crc="4166106437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="phone156x307.png" crc="3879278914" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="unnamed161x161.png" crc="3934037729" seo="true" ref="index">
+    <file name="unnamed174x174.png" crc="4066405996" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="how_it_works684x220.jpg" crc="4056552618" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="screen shot 2017-11-02 at 23027 pm160x139.jpg" crc="169342489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="phone173x340.png" crc="29922407" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="unnamed164x164.png" crc="3986456613" seo="true" ref="index">
+    <file name="unnamed187x187.png" crc="437828401" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="how_it_works637x205.jpg" crc="160241185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-02 at 23027 pm147x129.jpg" crc="175878706" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="phone166x326.png" crc="366375954" seo="true" ref="index">
@@ -123,6 +128,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="how_it_works605x194.jpg" crc="3960766592" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-02 at 23027 pm154x134.jpg" crc="300377446" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="phone175x344.png" crc="289789211" seo="true" ref="index">
@@ -149,10 +157,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="screen shot 2017-11-02 at 23027 pm132x115.jpg" crc="4045488410" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="phone128x251.png" crc="476544026" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="unnamed105x105.png" crc="430652449" seo="true" ref="index">
+    <file name="unnamed127x127.png" crc="374784009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-02 at 23027 pm126x110.jpg" crc="3980470688" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="phone103x203.png" crc="3826712919" seo="true" ref="index">
@@ -161,13 +175,19 @@
     <file name="unnamed75x75.png" crc="20237445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="screen shot 2017-11-02 at 23027 pm113x98.jpg" crc="4228940791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="phone99x194.png" crc="3887467305" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="unnamed75x76.png" crc="4276223495" seo="true" ref="index">
+    <file name="unnamed86x87.png" crc="4109809056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-02 at 23027 pm97x85.jpg" crc="4171576787" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4041750231" seo="true" mt="1509598487329" redirect="true"/>
+  <file name="index.html" crc="421308965" seo="true" mt="1509669991301" redirect="true"/>
 </manifest>
