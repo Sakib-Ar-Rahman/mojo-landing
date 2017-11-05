@@ -36,9 +36,6 @@
       <image:loc>http://mojoeats.me/images/how_it_works696x223.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm183x160.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mojoeats.me/images/phone163x320.png</image:loc>
     </image:image>
     <image:image>
@@ -55,18 +52,6 @@
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/unnamed174x174.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/phone173x340.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/unnamed187x187.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/how_it_works637x205.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm147x129.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/phone166x326.png</image:loc>
@@ -142,6 +127,24 @@
     </image:image>
     <image:image>
       <image:loc>http://mojoeats.me/images/unnamed86x87.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm135x118.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/restaurant_step2135x109.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/runner_step3127x110.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/screen%20shot%202017-11-02%20at%2023027%20pm123x107.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/phone162x318.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mojoeats.me/images/unnamed140x140.png</image:loc>
     </image:image>
   </url>
 </urlset>
