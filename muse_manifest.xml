@@ -1,24 +1,32 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mojoeats.me" resolutions="1x" timestamp="1509670032531">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mojoeats.me" resolutions="1x" timestamp="1509857043062">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3761803591" ref="index"/>
-    <file name="nomq_index.css" crc="3865181490" ref="index"/>
+    <file name="index.css" crc="497309225" ref="index"/>
+    <file name="nomq_index.css" crc="2700762" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="form_check.php" crc="147359589" ref="index"/>
-    <file name="form_throttle.php" crc="93986428" ref="index"/>
-    <file name="form_process.php" crc="3851993751" ref="index"/>
-    <file name="form-u13283.php" crc="399069276" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u13283.php" crc="3837696416" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="how_it_works.jpg" crc="3807870281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-02 at 23027 pm186x162.jpg" crc="335345661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="mojomonkey.png" crc="61541181" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -49,6 +57,7 @@
     </file>
     <file name="phone.png" crc="102788913" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="unnamed.png" crc="4132016418" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -56,21 +65,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="how_it_works.jpg" crc="3807870281" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="screen shot 2017-11-02 at 23027 pm186x162.jpg" crc="335345661" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="phone223x437.png" crc="463911724" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="how_it_works719x231.jpg" crc="162137824" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="screen shot 2017-11-02 at 23027 pm.jpg" crc="153677959" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="screen shot 2017-11-02 at 23027 pm105x92.jpg" crc="4187897039" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="phone217x427.png" crc="4217994464" seo="true" ref="index">
@@ -79,16 +74,13 @@
     <file name="screen shot 2017-11-02 at 23027 pm157x137.jpg" crc="442012026" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="phone168x331.png" crc="52744624" seo="true" ref="index">
+    <file name="screen shot 2017-11-02 at 23027 pm.jpg" crc="153677959" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="how_it_works543x175.jpg" crc="4124303434" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="phone163x320.png" crc="3782915974" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unnamed182x183.png" crc="3860156310" seo="true" ref="index">
+    <file name="phone168x331.png" crc="52744624" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="how_it_works696x223.jpg" crc="3818110559" seo="true" ref="index">
@@ -97,16 +89,22 @@
     <file name="screen shot 2017-11-02 at 23027 pm183x160.jpg" crc="4166106437" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="phone156x307.png" crc="3879278914" seo="true" ref="index">
+    <file name="phone163x320.png" crc="3782915974" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="unnamed174x174.png" crc="4066405996" seo="true" ref="index">
+    <file name="unnamed182x183.png" crc="3860156310" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="how_it_works684x220.jpg" crc="4056552618" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="screen shot 2017-11-02 at 23027 pm160x139.jpg" crc="169342489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone156x307.png" crc="3879278914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed174x174.png" crc="4066405996" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="phone173x340.png" crc="29922407" seo="true" ref="index">
@@ -133,31 +131,34 @@
     <file name="screen shot 2017-11-02 at 23027 pm154x134.jpg" crc="300377446" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="phone175x344.png" crc="289789211" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unnamed151x151.png" crc="56815297" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="phone_step1_bg.png" crc="482031232" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="restaurant_step2.jpg" crc="4152109211" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="restaurant_step2.jpg" crc="380804880" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="runner_step3.jpg" crc="67659353" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="runner_step3.jpg" crc="3899055365" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="screen shot 2017-11-02 at 23027 pm132x115.jpg" crc="4045488410" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone175x344.png" crc="289789211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed151x151.png" crc="56815297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="restaurant_step2137x111.jpg" crc="312678400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="runner_step3118x101.jpg" crc="424453691" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-02 at 23027 pm126x110.jpg" crc="3980470688" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="phone128x251.png" crc="476544026" seo="true" ref="index">
@@ -166,16 +167,28 @@
     <file name="unnamed127x127.png" crc="374784009" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2017-11-02 at 23027 pm126x110.jpg" crc="3980470688" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="phone103x203.png" crc="3826712919" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="unnamed75x75.png" crc="20237445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="restaurant_step2117x95.jpg" crc="3786825062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="runner_step3108x93.jpg" crc="4191535584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="screen shot 2017-11-02 at 23027 pm113x98.jpg" crc="4228940791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="restaurant_step2120x98.jpg" crc="3794796129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="runner_step3107x92.jpg" crc="4191535584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-02 at 23027 pm97x85.jpg" crc="4171576787" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="phone99x194.png" crc="3887467305" seo="true" ref="index">
@@ -184,10 +197,7 @@
     <file name="unnamed86x87.png" crc="4109809056" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2017-11-02 at 23027 pm97x85.jpg" crc="4171576787" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="421308965" seo="true" mt="1509669991301" redirect="true"/>
+  <file name="index.html" crc="1253658" seo="true" mt="1509856990299" redirect="true"/>
 </manifest>
